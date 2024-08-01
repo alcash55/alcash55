@@ -1,5 +1,18 @@
-# :computer: Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 👋🏻 Hi, I'm Alex!
 
+A dedicated and quality-focused software engineer with over three years of hands-on development experience. Committed to continual learning, I eagerly embrace new challenges to enhance my skill set and consistently deliver impactful solutions that drive business success and elevate user satisfaction.
 
-Dedicated and quality-focused software engineer with over three years of hands-on development experience. Committed to continual learning, I eagerly embrace new challenges to enhance my skill set and consistently deliver impactful solutions that drive business success and elevate user satisfaction.
+## 📚 About Me
+
+With a masters degree in Web and Mobile Information systems and a background in division one athletics, I bring a unique blend of technical expertise and competitive drive to every task and project I tackle. This combination enables me to approach challenges with both analytical precision and a determined mindset, ensuring innovative and effective solutions. Whether collaborating with a team or working independently, I leverage my diverse background to deliver high-quality results.
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript, TypeScript,
+- **Frameworks & Libraries:** React, Next.js, Vite, Node, MUI, Strapi.js,
+- **Tools & Platforms:** GitHub Actions, Google Tag Manager, Google Cloud Platform, Figma, FullStory
+
+## 📬 Connect with Me
+
+- 📝 [LinkedIn](www.linkedin.com/in/alexander-cash)
+- 📫 [Email](mailto:alex.e.cash28@gmail.com)

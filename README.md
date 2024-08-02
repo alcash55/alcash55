@@ -16,3 +16,6 @@ With a masters degree in Web and Mobile Information systems and a background in 
 
 - 📝 [LinkedIn](www.linkedin.com/in/alexander-cash)
 - 📫 [Email](mailto:alex.e.cash28@gmail.com)
+- 🖥️ [leetcode] https://leetcode.com/u/alcash55/
+
+<!-- ![](https://komarev.com/ghpvc/?username=alcash55&color=blue) -->

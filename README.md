@@ -18,7 +18,7 @@ halves of a feature.
 
 ## Tools
 
-**Languages:** Go, TypeScript, JavaScript, Python, SQL
+**Languages:** Go, TypeScript, JavaScript, SQL
 
 **Frontend:** React, Next.js, Tailwind CSS, shadcn/ui, MUI, Vite
 

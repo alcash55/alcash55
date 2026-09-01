@@ -1,21 +1,36 @@
-# 👋🏻 Hi, I'm Alex!
+# Hi, I'm Alex
 
-A dedicated and quality-focused software engineer with over three years of hands-on development experience. Committed to continual learning, I eagerly embrace new challenges to enhance my skill set and consistently deliver impactful solutions that drive business success and elevate user satisfaction.
+Software engineer at [Solea Energy](https://solea.energy), working on the platform
+our traders submit power trades through. Most of my week is Go on the backend and
+React with TypeScript on the frontend, and I like the work best when I own both
+halves of a feature.
 
-## 📚 About Me
+## What I've been building
 
-With a masters degree in Web and Mobile Information systems and a background in division one athletics, I bring a unique blend of technical expertise and competitive drive to every task and project I tackle. This combination enables me to approach challenges with both analytical precision and a determined mindset, ensuring innovative and effective solutions. Whether collaborating with a team or working independently, I leverage my diverse background to deliver high-quality results.
+- A seven-ISO trade submission API platform in Go (CAISO, ERCOT, MISO, NEISO,
+  NYISO, PJM, SPP), built from the ground up with one shared approach to
+  validation, error handling and fault resilience.
+- The Beyond FaaS worker runtime and router: a Kubernetes-native
+  function-as-a-service system that runs Go and Python plugins.
+- An internal developer portal, from the ETL pulling GitHub metadata into
+  Snowflake through to the React catalog UI.
+- [solea.energy](https://solea.energy), from an empty repository.
 
-## 🛠️ Technical Skills
+## Tools
 
-- **Languages:** JavaScript, TypeScript,
-- **Frameworks & Libraries:** React, Next.js, Vite, Node, MUI, Strapi.js,
-- **Tools & Platforms:** GitHub Actions, Google Tag Manager, Google Cloud Platform, Figma, FullStory
+**Languages:** Go, TypeScript, JavaScript, Python, SQL
 
-## 📬 Connect with Me
+**Frontend:** React, Next.js, Tailwind CSS, shadcn/ui, MUI, Vite
 
-- 📝 [LinkedIn](www.linkedin.com/in/alexander-cash)
-- 📫 [Email](mailto:alex.e.cash28@gmail.com)
-- 🖥️ [leetcode](https://leetcode.com/u/alcash55/)
+**Backend and data:** REST, OpenAPI, PostgreSQL, Snowflake, Couchbase, Kubernetes, Docker
+
+**Everything else:** GitHub Actions, Google Cloud, Cloudflare, Linux, Figma
+
+## Elsewhere
+
+- [Portfolio](https://alcash55.github.io/Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/alexander-cash)
+- [LeetCode](https://leetcode.com/u/alcash55/)
+- [Email](mailto:alex.e.cash28@gmail.com)
 
 <!-- ![](https://komarev.com/ghpvc/?username=alcash55&color=blue) -->

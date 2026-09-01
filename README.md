@@ -24,7 +24,7 @@ halves of a feature.
 
 **Backend and data:** REST, OpenAPI, PostgreSQL, Snowflake, Couchbase, Kubernetes, Docker
 
-**Everything else:** GitHub Actions, Google Cloud, Cloudflare, Linux, Figma
+**Everything else:** GitHub Actions, Google Cloud, Cloudflare, Linux, Figma, Claude Code
 
 ## Elsewhere
 

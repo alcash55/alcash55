@@ -43,7 +43,6 @@ of a feature.
 
 - [Portfolio](https://alcash55.github.io/Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/alexander-cash)
-- [LeetCode](https://leetcode.com/u/alcash55/)
 - [Email](mailto:alex.e.cash28@gmail.com)
 
 <!-- ![](https://komarev.com/ghpvc/?username=alcash55&color=blue) -->

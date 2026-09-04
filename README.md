@@ -1,9 +1,8 @@
 # Hi, I'm Alex
 
-Software engineer at [Solea Energy](https://solea.energy), working on the platform
-our traders submit power trades through. Most of my week is Go on the backend and
-React with TypeScript on the frontend, and I like the work best when I own both
-halves of a feature.
+Software engineer. Most of my week is Go on the backend and React with
+TypeScript on the frontend, and I like the work best when I own both halves
+of a feature.
 
 ## Side projects
 
